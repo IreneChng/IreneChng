@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hi, I am a IT Professional.
+I’m currently pursuing a Master of Computer Science (Applied Computing).
 <!--
 **IreneChng/IreneChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
