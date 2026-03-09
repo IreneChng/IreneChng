@@ -1,6 +1,13 @@
 ## Hi there 👋
 Hi, I am a IT Professional.
 I’m currently pursuing a Master of Computer Science (Applied Computing).
+
+🌱 I’m currently taking class of WOC7014 FRAMEWORK-BASED SOFTWARE DESIGN AND DEVELOPMENT.
+Through this course, I hope to deepen my knowledge through structured learning and expand my understanding of modern computing practices.
+
+🔭 I am interested in exploring different software development approaches and frameworks to strengthen my technical and solution design capabilities.
+
+⚡ Fun fact: I enjoy exploring different approaches to designing and delivering innovative business software solutions.
 <!--
 **IreneChng/IreneChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
