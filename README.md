@@ -9,12 +9,26 @@ Through this course, I hope to deepen my knowledge through structured learning a
 
 ⚡ Fun fact: I enjoy exploring different approaches to designing and delivering innovative business software solutions.
 
-**What I have experienced**
+**What I Work With**
 _________________________________________________________________________________________________________________________________
 
 **📋 Languages**
 
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+ **📚 Frameworks, Platforms and Libraries**
+
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+ **🎛️ Operating System**
+
+ ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+ **🥅 Other**
+
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+ Thanks for stopping by. Have a nice day!
 <!--
 **IreneChng/IreneChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
