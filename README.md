@@ -8,6 +8,13 @@ Through this course, I hope to deepen my knowledge through structured learning a
 🔭 I am interested in exploring different software development approaches and frameworks to strengthen my technical and solution design capabilities.
 
 ⚡ Fun fact: I enjoy exploring different approaches to designing and delivering innovative business software solutions.
+
+**What I have experienced**
+_________________________________________________________________________________________________________________________________
+
+**📋 Languages**
+
+ ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **IreneChng/IreneChng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
